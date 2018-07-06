@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map ArticulatedLib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Point2D	KEYWORD1
+Point3D	KEYWORD1
+ArticulatedTriangle2D	KEYWORD1
+ArticulatedTriangle3D	KEYWORD1
+ArticulatedQuadrilateral2D	KEYWORD1
+ArticulatedQuadrilateral3D	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+SolveDirectAbsolute	KEYWORD2
+SolveDirectRelative	KEYWORD2
+SolveReverse	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
