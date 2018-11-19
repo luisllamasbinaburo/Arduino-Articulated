@@ -44,7 +44,7 @@ Point2D Target;
 ArticulatedQuadrilateral2D(float l1, float l2, float l3, bool useInnerRelativeAngles = false) 
 ```
 
-### Uso de Articulated2D
+### Uso de ArticulatedQuadrilateral2D
 ```c++
 void SolveDirectAbsolute(float angle1, float angle2, float angle3);
 void SolveDirectRelative(float angle1, float angle2, float angle3);
