@@ -38,7 +38,7 @@ Point2D Target;
 ```
 
 
-## Cuadrilátero ArticulatedQuadrilateral2D
+## Cuadrilátero articulado 2D
 ### Constructor
 ```c++
 ArticulatedQuadrilateral2D(float l1, float l2, float l3, bool useInnerRelativeAngles = false) 
